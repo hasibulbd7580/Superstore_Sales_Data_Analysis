@@ -86,3 +86,7 @@ Analyze discounting + product mix per state
 🟢 Priority 4: Scale profitable products
 Invest in Paper, Copiers, Phones
 Expand marketing for Home Office segment
+
+👨‍💻 Author
+Md. Hasibul Islam
+Data Analyst | Power BI | Business Intelligence Learner
